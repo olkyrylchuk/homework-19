@@ -40,5 +40,3 @@ let list = [
             ELEM_OL.append(ELEM_LI)     
     }
             document.body.append(ELEM_OL);
-    
-    
